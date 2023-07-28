@@ -1,0 +1,13 @@
+{
+  "users":
+    {
+      "id":1,
+      "username":"manolo",
+      "state": true
+    },
+    {
+      "id":2,
+      "username":"cheira",
+      "state": true
+    },
+}
