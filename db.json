@@ -1,11 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "users": [
+      {
+        "id":1,
+        "username":"manolo",
+        "state":true,
+          "deck":[1,2,3,4,5]
+      },
+      {
+        "id":2,
+        "username":"cheira",
+        "state":true,
+          "deck":[50,20,31,46,58]
+      },
+      {
+        "id":3,
+        "username":"escandon",
+        "state":true,
+          "deck":[10,20,30,40,50]
+      }
+    ]
+   ,
+  "worlds":[1,2,3,4,5,6,7,8]
 }
